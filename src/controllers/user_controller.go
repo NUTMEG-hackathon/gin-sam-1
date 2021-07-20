@@ -4,8 +4,8 @@ import (
   "fmt"
   "strconv"
   "github.com/gin-gonic/gin"
-  "github.com/mizu-ryo/gin-sam2/src/db"
-  "github.com/mizu-ryo/gin-sam2/src/models"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/db"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/models"
 )
 
 // Controller is user controlller

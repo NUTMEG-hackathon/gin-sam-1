@@ -1,8 +1,8 @@
 package main
 
 import (
-  "github.com/mizu-ryo/gin-sam2/src/seed"
-  "github.com/mizu-ryo/gin-sam2/src/router"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/seed"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/router"
 )
 
 func main() {

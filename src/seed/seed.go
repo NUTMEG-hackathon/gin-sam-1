@@ -2,8 +2,8 @@ package seed
 
 import (
   "fmt"
-  "github.com/mizu-ryo/gin-sam2/src/db"
-  "github.com/mizu-ryo/gin-sam2/src/models"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/db"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/models"
 )
 
 func Seed() {

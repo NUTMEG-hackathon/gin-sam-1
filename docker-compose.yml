@@ -6,7 +6,7 @@ services:
     stdin_open: true
     tty: true
     volumes:
-      - .:/go/src/github.com/mizu-ryo/gin-sam2
+      - .:/go/src/github.com/NUTMEG-hackathon/gin-sam-1
     ports:
       - 8080:8080
     depends_on:

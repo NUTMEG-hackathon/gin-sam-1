@@ -2,7 +2,7 @@ package router
 
 import (
   "github.com/gin-gonic/gin"
-  "github.com/mizu-ryo/gin-sam2/src/controllers"
+  "github.com/NUTMEG-hackathon/gin-sam-1/src/controllers"
 )
 
 func Router() {
